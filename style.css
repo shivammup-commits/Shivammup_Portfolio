@@ -152,3 +152,14 @@ body{
 }
 .footer-col-1, .footer-col-2{display: block; text-align: center;}
 .footer-col-1 p{display: inline-flex;}
+.print-btn{
+    margin-bottom: 10px !important;
+    padding: 10px !important;
+    border-radius: 10px;
+    border: 1px solid #000;
+    font-size: 18px;
+    background: #feefd8 !important;
+}
+.print-btn:hover{
+    background: #c5d4fc !important;
+}
